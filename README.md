@@ -12,6 +12,3 @@ None, only a running Python installation is required.
 - Modify the code according to your need or use it directly:
   `ob = obj({'a':1, 'b': 2, 'c':3})`
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Varun-22](https://github.com/Varun-22)
